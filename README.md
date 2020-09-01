@@ -20,7 +20,8 @@ Run a web app which can show model results in real time
 Below are a few screenshots of the web app and others under asset folder
 
 <img src="assets/intro.jpeg" width="80%" alt="disaster response project web app">
-<img src="assets/sample_input_output.jpeg" width="80%" alt="disaster response project web app">
+<img src="assets/main_pag1.jpeg" width="80%" alt="disaster response main web app">
+<img src="assets/sample_input_output.jpeg" width="80%" alt="sample Input and output response project web app">
 <img src="assets/train_calssifier_category.jpeg" width="80%" alt="train calssifier category">
 
 ## Files
