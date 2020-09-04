@@ -26,7 +26,10 @@ Below are a few screenshots of the web app and others under asset folder
 
 <img src="assets/intro.jpeg" width="80%" alt="disaster response project web app">
 <img src="assets/main_pag1.jpeg" width="80%" alt="disaster response main web app">
+<img src="assets/categories.jpeg" width="80%" alt="categories main web app">
 <img src="assets/sample_input_output.jpeg" width="80%" alt="sample Input and output response project web app">
+<img src="assets/sample_input_output1.jpeg" width="80%" alt="sample Input and output response project web app">
+<img src="assets/sample_input_output2.jpeg" width="80%" alt="sample Input and output response project web app">
 <img src="assets/train_calssifier_category.jpeg" width="80%" alt="train calssifier category">
 
 ## Files
@@ -47,7 +50,7 @@ Below are a few screenshots of the web app and others under asset folder
     - To run ETL pipeline that cleans data and stores in database
         ` python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/disaster_response_db.db`
     - To run ML pipeline that trains classifier and saves
-        `ppython models/train_classifier.py data/disaster_response_db.db models/classifier.pkl`
+        `python models/train_classifier.py data/disaster_response_db.db models/classifier.pkl`
 
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
